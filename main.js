@@ -1,8 +1,8 @@
 const linksSocialMedia = {
   github: 'AbnerStelmastchuk',
-  youtube: '',
-  facebook: '',
-  instagram: '',
+  youtube: 'channel/UC9n9545FsqpTH2RMVk3jCpA',
+  facebook: 'Abner.Stelmastchuk',
+  instagram: 'stelmastchuk_',
   twitter: ''
 }
 
