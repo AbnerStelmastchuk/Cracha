@@ -1,5 +1,9 @@
 const linksSocialMedia = {
   github: 'AbnerStelmastchuk',
+  youtube: '',
+  facebook: '',
+  instagram: '',
+  twitter: ''
 }
 
 function changeSocialMediaLinks() {
