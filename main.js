@@ -2,7 +2,7 @@ const linksSocialMedia = {
   github: 'AbnerStelmastchuk',
   youtube: '',
   facebook: '',
-  instagram: ',
+  instagram: '',
   twitter: ''
 }
 
